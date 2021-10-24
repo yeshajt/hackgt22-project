@@ -1,0 +1,8 @@
+prefix=/home/udit/ROS/hack-gt-8/catkin_ws/devel
+
+Name: turtlebot_dabit
+Description: Description of turtlebot_dabit
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

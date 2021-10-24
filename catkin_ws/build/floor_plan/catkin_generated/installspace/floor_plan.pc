@@ -1,0 +1,8 @@
+prefix=/home/udit/ROS/hack-gt-8/catkin_ws/install
+
+Name: floor_plan
+Description: Description of floor_plan
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

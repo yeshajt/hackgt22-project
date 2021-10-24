@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/udit/ROS/hack-gt-8/catkin_ws/devel/setup.sh
